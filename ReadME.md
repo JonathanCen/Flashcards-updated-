@@ -27,9 +27,9 @@
 
 ### App Walk-though
 
-<img src="http://recordit.co/RBsT29N0Nf" width=200><br>
+<img src="http://g.recordit.co/RBsT29N0Nf.gif" width=200><br>
 
-## Required
+## RequiredRBsT29N0Nf
 - [x] User can open the creation screen
 - [x] User can cancel out of the creation screen
 - [x] User can enter a new question and answer in the creation screen to then show it on the flashcard
